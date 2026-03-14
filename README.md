@@ -4,9 +4,9 @@ Fullstack Web Developer · Nairobi, Kenya.
 Pixels & code are my playground. I build brands and break bugs.
 
 
-•Currently building fullstack web apps with a focus on clean UI & solid backends.
-•Actively levelling up in **React**, **Node.js**, **Next.js** and **REST APIs**
-•Open to collaboration on impactful projects — especially those solving African challenges.
+- Currently building fullstack web apps with a focus on clean UI & solid backends.
+- Actively levelling up in **React**, **Node.js**, **Next.js** and **REST APIs**
+- Open to collaboration on impactful projects — especially those solving African challenges.
 
 Tech Stack
 • Frontend
