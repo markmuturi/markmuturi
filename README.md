@@ -2,7 +2,7 @@ Hi, I'm Mark Muturi. 👋
 
 Fullstack Web Developer · Nairobi, Kenya.
 
-Pixels & code are my playground. I build brands and break bugs.
+Pixels & code are my playground.
 
 
 - Currently building fullstack web apps with a focus on clean UI & solid backends.
