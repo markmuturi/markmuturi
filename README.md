@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Mark Muturi. 👋
 
-<!--
-**markmuturi/markmuturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Web Developer · Nairobi, Kenya.
+Pixels & code are my playground. I build brands and break bugs.
 
-Here are some ideas to get you started:
+• Currently building fullstack web apps with a focus on clean UI & solid backends.
+• Actively levelling up in **React**, **Node.js**, **Next.js** and **REST APIs**
+• Open to collaboration on impactful projects — especially those solving African challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+  • Frontend
+  `HTML` `CSS` `JavaScript` `React` `Next.js`
+
+  • Backend
+  `Node.js` `Express` `REST APIs`
+
+⭐ From [markmuturi](https://github.com/markmuturi) — always building, always learning.
