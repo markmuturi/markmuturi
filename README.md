@@ -10,10 +10,10 @@ Pixels & code are my playground. I build brands and break bugs.
 
 Tech Stack
 
--Frontend
+- Frontend
 `HTML` `CSS` `JavaScript` `React` `Next.js`
 
--Backend
+- Backend
  `Node.js` `Express` `REST APIs`
 
 ⭐ From [markmuturi](https://github.com/markmuturi) — always building, always learning.
