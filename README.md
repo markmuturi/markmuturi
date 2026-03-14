@@ -9,6 +9,7 @@ Pixels & code are my playground. I build brands and break bugs.
 - Open to collaboration on impactful projects — especially those solving African challenges.
 
 Tech Stack
+
 -Frontend
 `HTML` `CSS` `JavaScript` `React` `Next.js`
 
