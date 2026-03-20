@@ -7,11 +7,6 @@ Hi, I'm Mark Muturi. 👋
 - Open to collaboration on impactful projects — especially those solving African challenges.
 
 Tech Stack
-
-- Frontend
-`HTML` `CSS` `JavaScript` `React` `Next.js`
-
-- Backend
- `Node.js` `Express` `REST APIs`
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Node.js` `Express` `REST APIs`
 
 ⭐ From [markmuturi](https://github.com/markmuturi) — always building, always learning.
